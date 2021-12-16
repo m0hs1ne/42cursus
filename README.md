@@ -81,10 +81,10 @@ The table below presents the cursus curriculum in the chronological order in whi
 |01	 |[ft_printf](https://github.com/mel-hada/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)| 1.69	|
 |01	 |[Born2beroot](https://github.com/mel-hada/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/mel-hada/Born2beroot)      | 1.29		|
 |:dizzy:|								|	     |							             |		 |
-|02	 |[push_swap]()							|docker, .sh, web, SQL	| ![](https://badge42.herokuapp.com/api/project/mel-hada/push_swap)						     |	         |
+|02	 |[push_swap]()							|docker, .sh, web, SQL	| 						     |	         |
 |02	 |[pipex]()							|docker, .sh, web, SQL	|						     |		 |
 |02	 |[so_long]()							|C, Computer Graphics	|						     |		 |
-|02	 |Exam Rank 02							|-	| ![](https://badge42.herokuapp.com/api/project/mel-hada/Exam%20Rank%2002)	|	 |
+|02	 |Exam Rank 02							|-	| 	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers]()						|Assembly		|						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
