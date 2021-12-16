@@ -75,11 +75,11 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 | Circle | Project                                                      |  Language  |                            Score                              |  Level   |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
-|00	 |[Libft](https://github.com/mel-hada/lift/)		        |C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/Libft) | 1      |
+|00	 |[Libft](https://github.com/m0hs1ne/libft/)		        |C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/Libft) | 1      |
 |:dizzy:|						                |	     |						                     |          |
-|01	 |[get_next_line](https://github.com/mel-hada/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/get_next_line) | 	 |
-|01	 |[ft_printf](https://github.com/mel-hada/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)| 1.69	|
-|01	 |[Born2beroot](https://github.com/mel-hada/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/mel-hada/Born2beroot)      | 1.29		|
+|01	 |[get_next_line](https://github.com/m0hs1ne/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/get_next_line) | 	 |
+|01	 |[ft_printf](https://github.com/m0hs1ne/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)| 1.69	|
+|01	 |[Born2beroot](https://github.com/m0hs1ne/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/mel-hada/Born2beroot)      | 1.29		|
 |:dizzy:|								|	     |							             |		 |
 |02	 |[push_swap]()							|docker, .sh, web, SQL	| 						     |	         |
 |02	 |[pipex]()							|docker, .sh, web, SQL	|						     |		 |
