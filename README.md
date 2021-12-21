@@ -77,7 +77,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
 |00	 |[Libft](https://github.com/m0hs1ne/libft/)		        |C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/Libft) | 1      |
 |:dizzy:|						                |	     |						                     |          |
-|01	 |[get_next_line](https://github.com/m0hs1ne/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/get_next_line) | 	 |
+|01	 |[get_next_line](https://github.com/m0hs1ne/get_next_line)	|C	     | ![](https://badge42.herokuapp.com/api/project/mel-hada/get_next_line) | 2.13 	 |
 |01	 |[ft_printf](https://github.com/m0hs1ne/ft_printf)		|C	     | ![](https://badge42.herokuapp.com/api/project/ajordan-/ft_printf)| 1.69	|
 |01	 |[Born2beroot](https://github.com/m0hs1ne/Born2beroot)		|Networks    | ![](https://badge42.herokuapp.com/api/project/mel-hada/Born2beroot)      | 1.29		|
 |:dizzy:|								|	     |							             |		 |
