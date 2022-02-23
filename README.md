@@ -82,7 +82,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |01	 |[Born2beroot]()		|Networks    | ![](https://badge42.herokuapp.com/api/project/mel-hada/Born2beroot)      | 1.29		|
 |:dizzy:|								|	     |							             |		 |
 |02	 |[push_swap]()							|docker, .sh, web, SQL	| 						     |	         |
-|02	 |[pipex]()							|docker, .sh, web, SQL	|						     |		 |
+|02	 |[pipex](https://github.com/m0hs1ne/pipex)							|docker, .sh, web, SQL	| ![](https://badge42.herokuapp.com/api/project/mel-hada/pipex)      | 2.88		|
 |02	 |[so_long](https://github.com/m0hs1ne/so_long)							|C, Computer Graphics	| ![](https://badge42.herokuapp.com/api/project/mel-hada/so_long)      | 2.52		|
 |02	 |Exam Rank 02							|-	| 	|	 |
 |:dizzy:|								|			|						     |		 |
