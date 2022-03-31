@@ -84,7 +84,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02	 |[push_swap](https://github.com/m0hs1ne/push_swap)		|C	| ✅ 119% |	3.30         |
 |02	 |[pipex](https://github.com/m0hs1ne/pipex)							|C	| ✅ 100%      | 2.88		|
 |02	 |[so_long](https://github.com/m0hs1ne/so_long)							|C, Computer Graphics	| ✅ 125%     | 2.52		|
-|02	 |Exam Rank 02							|-	| 	|	❌ 50% |
+|02	 |Exam Rank 02							|-	| ❌ 50%	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers]()						|Assembly		|						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
