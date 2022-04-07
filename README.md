@@ -109,4 +109,4 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ## :camera: My 42 Cursus Intra Profile
 
-![mel-hada's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hada)
+![mel-hada's 42 stats](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/stats?cursusId=21&coalitionId=80)
