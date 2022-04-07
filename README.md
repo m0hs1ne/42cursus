@@ -75,16 +75,16 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 | Circle | Project                                                      |  Language  |                            Score                              |  Level   |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
-|00	 |[Libft](https://github.com/m0hs1ne/libft/)		        |C	     | ✅ 100% | 1      |
+|00	 |[Libft](https://github.com/m0hs1ne/libft/)		        |C	     | [![mel-hada's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2434233)](https://github.com/m0hs1ne) | 1      |
 |:dizzy:|						                |	     |						                     |          |
-|01	 |[get_next_line](https://github.com/m0hs1ne/get_next_line)	|C	     | ✅ 125% | 2.13 	 |
-|01	 |[ft_printf](https://github.com/m0hs1ne/ft_printf)		|C	     | ✅ 100%| 1.69	|
-|01	 |[Born2beroot]()		|Networks    | ✅ 115%      | 1.29		|
+|01	 |[get_next_line](https://github.com/m0hs1ne/get_next_line)	|C	     | [![mel-hada's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2441318)](https://github.com/m0hs1ne) | 2.13 	 |
+|01	 |[ft_printf](https://github.com/m0hs1ne/ft_printf)		|C	     | [![mel-hada's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2437354)](https://github.com/m0hs1ne)| 1.69	|
+|01	 |[Born2beroot]()		|Networks    | [![mel-hada's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2434233)](https://github.com/m0hs1ne)      | 1.29		|
 |:dizzy:|								|	     |							             |		 |
-|02	 |[push_swap](https://github.com/m0hs1ne/push_swap)		|C	| ✅ 119% |	3.30         |
-|02	 |[pipex](https://github.com/m0hs1ne/pipex)							|C	| ✅ 100%      | 2.88		|
-|02	 |[so_long](https://github.com/m0hs1ne/so_long)							|C, Computer Graphics	| ✅ 125%     | 2.52		|
-|02	 |Exam Rank 02							|-	| ❌ 50%	|	 |
+|02	 |[push_swap](https://github.com/m0hs1ne/push_swap)		|C	| [![mel-hada's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2532284)](https://github.com/m0hs1ne) |	3.30         |
+|02	 |[pipex](https://github.com/m0hs1ne/pipex)							|C	| [![mel-hada's 42 pipex Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2509348)](https://github.com/m0hs1ne)      | 2.88		|
+|02	 |[so_long](https://github.com/m0hs1ne/so_long)							|C, Computer Graphics	| [![mel-hada's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2495820)](https://github.com/m0hs1ne)     | 2.52		|
+|02	 |Exam Rank 02							|-	| [![mel-hada's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2479690)](https://github.com/m0hs1ne)	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers]()						|Assembly		|						     |		 |
 |03	 |[minishell]()							|C			|						     |		 |
