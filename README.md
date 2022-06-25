@@ -86,7 +86,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02	 |[so_long](https://github.com/m0hs1ne/so_long)							|C, Computer Graphics	| [![mel-hada's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2495820)](https://github.com/m0hs1ne)     | 2.52		|
 |02	 |Exam Rank 02							|-	| [![mel-hada's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2479690)](https://github.com/m0hs1ne)	|	 |
 |:dizzy:|								|			|						     |		 |
-|03	 |[Philosophers]()						|Assembly		|						     |		 |
+|03	 |[Philosophers](https://github.com/m0hs1ne/philosophers)						|C,Threads		| 	[![mel-hada's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2633029)](https://github.com/m0hs1ne)  |		3.88 |
 |03	 |[minishell]()							|C			|						     |		 |
 |03	 |Exam Rank 03							|-			|						     |		 |
 |:dizzy:|								|		        |						     |		 |
