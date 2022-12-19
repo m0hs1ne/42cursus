@@ -97,8 +97,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|								|			|						     |		 |
 |04	 |[Inception]()							|C			|						     |		 |
 |04	 |[ft_containers]()						|C			|						     |		 |
-|04	 |[webserv]()							|C			|						     |		 |
-|04	 |[ft_irc]()							|C			|						     |		 |
+|04	 |[webserv]()							|C			|						     |		 |		 |
 |05	 |Exam Rank 05							|-			|						     |		 |
 |:dizzy:|								|			|						     |		 |
 |06	 |[ft_transcendence]()						|?			|						     |		 |
