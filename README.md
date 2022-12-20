@@ -87,12 +87,12 @@ The table below presents the cursus curriculum in the chronological order in whi
 |02	 |Exam Rank 02							|-	| [![mel-hada's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2479690)](https://github.com/m0hs1ne)	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers](https://github.com/m0hs1ne/philosophers)						|C,Threads		| 	[![mel-hada's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2633029)](https://github.com/m0hs1ne)  |		3.88 |
-|03	 |[minishell]()							|C			|	[![mel-hada's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2636070)](https://github.com/JaeSeoKim/badge42)					     |		 |
+|03	 |[minishell]()							|C			|	[![mel-hada's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2636070)](https://github.com/JaeSeoKim/badge42)					     |	4.16	 |
 |03	 |Exam Rank 03							|-			|	[![mel-hada's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2644407)](https://github.com/JaeSeoKim/badge42)					     |		 |
 |:dizzy:|								|		        |						     |		 |
-|04	 |[NetPractice]()						|C			|	[![mel-hada's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2828671)](https://github.com/JaeSeoKim/badge42)					     |		 |
-|04	 |[cub3d]()							|C			|			[![mel-hada's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2675092)](https://github.com/JaeSeoKim/badge42)			     |		 |
-|04	 |[CPP Modules (9)]()						|C++			|			[![mel-hada's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2908491)](https://github.com/JaeSeoKim/badge42)			     |		 |
+|04	 |[NetPractice]()						|C			|	[![mel-hada's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2828671)](https://github.com/JaeSeoKim/badge42)					     |	4.57	 |
+|04	 |[cub3d]()							|C			|			[![mel-hada's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2675092)](https://github.com/JaeSeoKim/badge42)			     |		4.75 |
+|04	 |[CPP Modules (9)]()						|C++			|			[![mel-hada's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2908491)](https://github.com/JaeSeoKim/badge42)			     |		5.31 |
 |04	 |Exam Rank 04							|-			|						     |		 |
 |:dizzy:|								|			|						     |		 |
 |04	 |[Inception]()							|C			|						     |		 |
