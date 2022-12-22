@@ -93,7 +93,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |04	 |[NetPractice]()						|C			|	[![mel-hada's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2828671)](https://github.com/JaeSeoKim/badge42)					     |	4.57	 |
 |04	 |[cub3d]()							|C			|			[![mel-hada's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2675092)](https://github.com/JaeSeoKim/badge42)			     |		4.75 |
 |04	 |[CPP Modules (9)]()						|C++			|			[![mel-hada's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2908491)](https://github.com/JaeSeoKim/badge42)			     |		5.31 |
-|04	 |Exam Rank 04							|-			|						     |		 |
+|04	 |Exam Rank 04							|-			|		[![mel-hada's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2919391)](https://github.com/JaeSeoKim/badge42)				     |		 |
 |:dizzy:|								|			|						     |		 |
 |04	 |[Inception]()							|C			|						     |		 |
 |04	 |[ft_containers]()						|C			|						     |		 |
