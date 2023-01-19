@@ -81,21 +81,21 @@ The table below presents the cursus curriculum in the chronological order in whi
 |01	 |[ft_printf](https://github.com/m0hs1ne/ft_printf)		|C	     | [![mel-hada's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2437354)](https://github.com/m0hs1ne)| 1.69	|
 |01	 |[Born2beroot]()		|Networks    | [![mel-hada's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2434233)](https://github.com/m0hs1ne)      | 1.29		|
 |:dizzy:|								|	     |							             |		 |
-|02	 |[push_swap](https://github.com/m0hs1ne/push_swap)		|C	| [![mel-hada's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2532284)](https://github.com/m0hs1ne) |	3.30         |
+|02	 |[push_swap](https://github.com/m0hs1ne/push_swap)		|C,Algorithm	| [![mel-hada's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2532284)](https://github.com/m0hs1ne) |	3.30         |
 |02	 |[pipex](https://github.com/m0hs1ne/pipex)							|C	| [![mel-hada's 42 pipex Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2509348)](https://github.com/m0hs1ne)      | 2.88		|
 |02	 |[so_long](https://github.com/m0hs1ne/so_long)							|C, Computer Graphics	| [![mel-hada's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2495820)](https://github.com/m0hs1ne)     | 2.52		|
 |02	 |Exam Rank 02							|-	| [![mel-hada's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2479690)](https://github.com/m0hs1ne)	|	 |
 |:dizzy:|								|			|						     |		 |
 |03	 |[Philosophers](https://github.com/m0hs1ne/philosophers)						|C,Threads		| 	[![mel-hada's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2633029)](https://github.com/m0hs1ne)  |		3.88 |
-|03	 |[minishell]()							|C			|	[![mel-hada's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2636070)](https://github.com/JaeSeoKim/badge42)					     |	4.16	 |
+|03	 |[minishell]()							|C,Shell			|	[![mel-hada's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2636070)](https://github.com/JaeSeoKim/badge42)					     |	4.16	 |
 |03	 |Exam Rank 03							|-			|	[![mel-hada's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2644407)](https://github.com/JaeSeoKim/badge42)					     |		 |
 |:dizzy:|								|		        |						     |		 |
-|04	 |[NetPractice]()						|C			|	[![mel-hada's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2828671)](https://github.com/JaeSeoKim/badge42)					     |	4.57	 |
-|04	 |[cub3d]()							|C			|			[![mel-hada's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2675092)](https://github.com/JaeSeoKim/badge42)			     |		4.75 |
-|04	 |[CPP Modules (9)]()						|C++			|			[![mel-hada's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2908491)](https://github.com/JaeSeoKim/badge42)			     |		5.31 |
+|04	 |[NetPractice]()						|C,Subnetting			|	[![mel-hada's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2828671)](https://github.com/JaeSeoKim/badge42)					     |	4.57	 |
+|04	 |[cub3d]()							|C,3D Graphics			|			[![mel-hada's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2675092)](https://github.com/JaeSeoKim/badge42)			     |		4.75 |
+|04	 |[CPP Modules (9)](https://github.com/m0hs1ne/cpp-pool)						|C++			|			[![mel-hada's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2908491)](https://github.com/JaeSeoKim/badge42)			     |		5.31 |
 |04	 |Exam Rank 04							|-			|		[![mel-hada's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2919391)](https://github.com/JaeSeoKim/badge42)				     |		 |
 |:dizzy:|								|			|						     |		 |
-|04	 |[Inception](https://github.com/m0hs1ne/inception)							|C			|	[![mel-hada's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2938994)](https://github.com/JaeSeoKim/badge42)					     |		6.02 |
+|04	 |[Inception](https://github.com/m0hs1ne/inception)							|C,Docker			|	[![mel-hada's 42 Inception Score](https://badge42.vercel.app/api/v2/cl1paa7kh007409mrd2ch2fqh/project/2938994)](https://github.com/JaeSeoKim/badge42)					     |		6.02 |
 |04	 |[ft_containers]()						|C			|						     |		 |
 |04	 |[webserv]()							|C			|						     |		 |		 |
 |05	 |Exam Rank 05							|-			|						     |		 |
